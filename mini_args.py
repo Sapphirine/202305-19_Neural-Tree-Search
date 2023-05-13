@@ -54,5 +54,5 @@ class Arg:
     split_key=16
     dump_location='./tmp/'
     exp_name='nts4_eval_img'
-    load_model='/home/fangbowen/Neural-Tree-Search/tmp/models/nts4/model_best.npy'
+    load_model='0'
     
