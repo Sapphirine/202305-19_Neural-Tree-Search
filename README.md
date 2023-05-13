@@ -46,6 +46,7 @@ To use the trained model, specify the path to the model in `mini_args.py` `load_
 ```
 load_model='/home/fangbowen/Neural-Tree-Search/tmp/models/nts4/model_best.npy'
 ```
+You could download the model from https://drive.google.com/file/d/1bKQhWeVxPMNGXDtx0XoajYT5es9uWtKc/view?usp=share_link
 
 ## Results
 
